@@ -9,8 +9,8 @@ export default defineConfig({
     port: 5173,
     open: true,
     proxy: {
-      '/api': { target: 'http://localhost:4000', changeOrigin: true },
-      '/uploads': { target: 'http://localhost:4000', changeOrigin: true },
+      '/api': { target: 'https://mybeautyoutfithairserver.onrender.com', changeOrigin: true },
+      '/uploads': { target: 'https://mybeautyoutfithairserver.onrender.com', changeOrigin: true },
     },
   },
   build: {
