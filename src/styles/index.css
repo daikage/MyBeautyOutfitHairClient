@@ -1,0 +1,6 @@
+/* Style entry point — order matters (tokens establish the design system). */
+@import './tokens.css';
+@import './layout.css';
+@import './parallax.css';
+@import './sections.css';
+@import './admin.css';

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" preserveAspectRatio="xMidYMid slice" role="img">
+  <defs>
+    <linearGradient id="bgapsyxtf" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#170D16" />
+      <stop offset="0.52" stop-color="#43203A" />
+      <stop offset="1" stop-color="#713A56" />
+    </linearGradient>
+    <radialGradient id="glowapsyxtf" cx="0.72" cy="0.22" r="0.78">
+      <stop offset="0" stop-color="#EBCB8B" stop-opacity="0.46" />
+      <stop offset="0.45" stop-color="#EBCB8B" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#EBCB8B" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="deepapsyxtf" cx="0.18" cy="0.94" r="0.72">
+      <stop offset="0" stop-color="#0F0710" stop-opacity="0.78" />
+      <stop offset="1" stop-color="#0F0710" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="strandapsyxtf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EBCB8B" stop-opacity="0.55" />
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#EBCB8B" stop-opacity="0.32" />
+    </linearGradient>
+    <radialGradient id="vigapsyxtf" cx="0.5" cy="0.46" r="0.78">
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.45" />
+    </radialGradient>
+    <filter id="softapsyxtf" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" />
+    </filter>
+  </defs>
+
+  <rect width="900" height="1200" fill="url(#bgapsyxtf)" />
+  <rect width="900" height="1200" fill="url(#glowapsyxtf)" />
+
+  <g fill="none" stroke="url(#strandapsyxtf)" stroke-linecap="round" filter="url(#softapsyxtf)">
+    <path d="M519.4 -60.0 C465.1 408.0 609.9 816.0 474.2 1176.0 501.3 1272.0" stroke-width="46.5" opacity="0.41" /><path d="M475.7 -60.0 C466.6 408.0 490.8 816.0 468.1 1176.0 472.7 1272.0" stroke-width="55.7" opacity="0.50" /><path d="M111.3 -60.0 C157.2 408.0 34.9 816.0 149.6 1176.0 126.6 1272.0" stroke-width="50.0" opacity="0.33" /><path d="M382.4 -60.0 C362.2 408.0 416.1 816.0 365.6 1176.0 375.7 1272.0" stroke-width="51.2" opacity="0.34" /><path d="M633.8 -60.0 C503.8 408.0 850.4 816.0 525.4 1176.0 590.4 1272.0" stroke-width="58.0" opacity="0.27" /><path d="M439.2 -60.0 C341.3 408.0 602.5 816.0 357.6 1176.0 406.6 1272.0" stroke-width="30.5" opacity="0.26" /><path d="M521.1 -60.0 C445.4 408.0 647.5 816.0 458.0 1176.0 495.9 1272.0" stroke-width="24.7" opacity="0.27" />
+  </g>
+
+  <g fill="none" stroke="#EBCB8B" stroke-opacity="0.34" stroke-width="1.4">
+    <circle cx="450.0" cy="480.0" r="178.6" />
+    <circle cx="450.0" cy="480.0" r="288.0" stroke-opacity="0.2" />
+    <path d="M69.8 480.0 A380.2 380.2 0 0 1 830.2 480.0" stroke-opacity="0.16" />
+  </g>
+
+  <rect width="900" height="1200" fill="url(#deepapsyxtf)" />
+  <g><circle cx="484.0" cy="314.9" r="2.0" fill="#EBCB8B" opacity="0.57" /><circle cx="350.1" cy="853.6" r="5.0" fill="#EBCB8B" opacity="0.64" /><circle cx="519.6" cy="912.6" r="2.1" fill="#EBCB8B" opacity="0.72" /><circle cx="211.4" cy="237.4" r="4.6" fill="#EBCB8B" opacity="0.66" /><circle cx="424.3" cy="805.2" r="4.8" fill="#EBCB8B" opacity="0.30" /><circle cx="663.9" cy="650.6" r="3.1" fill="#EBCB8B" opacity="0.55" /><circle cx="219.5" cy="969.7" r="3.4" fill="#EBCB8B" opacity="0.31" /><circle cx="406.9" cy="816.8" r="4.9" fill="#EBCB8B" opacity="0.64" /><circle cx="236.0" cy="590.1" r="4.5" fill="#EBCB8B" opacity="0.28" /><circle cx="329.1" cy="180.2" r="4.4" fill="#EBCB8B" opacity="0.29" /><circle cx="419.9" cy="340.4" r="2.4" fill="#EBCB8B" opacity="0.58" /><circle cx="723.4" cy="313.0" r="4.2" fill="#EBCB8B" opacity="0.39" /><circle cx="600.7" cy="997.6" r="2.3" fill="#EBCB8B" opacity="0.72" /><circle cx="163.8" cy="1061.1" r="4.8" fill="#EBCB8B" opacity="0.59" /><circle cx="282.9" cy="515.3" r="2.0" fill="#EBCB8B" opacity="0.56" /><circle cx="190.7" cy="701.3" r="1.6" fill="#EBCB8B" opacity="0.68" /><circle cx="207.9" cy="102.7" r="4.2" fill="#EBCB8B" opacity="0.26" /><circle cx="347.8" cy="1015.6" r="4.3" fill="#EBCB8B" opacity="0.45" /><circle cx="511.5" cy="603.3" r="4.1" fill="#EBCB8B" opacity="0.56" /><circle cx="346.0" cy="277.1" r="2.3" fill="#EBCB8B" opacity="0.45" /><circle cx="328.6" cy="399.2" r="3.9" fill="#EBCB8B" opacity="0.72" /><circle cx="128.6" cy="745.8" r="1.9" fill="#EBCB8B" opacity="0.68" /><circle cx="705.2" cy="209.7" r="3.6" fill="#EBCB8B" opacity="0.68" /><circle cx="133.6" cy="618.6" r="4.0" fill="#EBCB8B" opacity="0.39" /><circle cx="706.2" cy="451.9" r="3.4" fill="#EBCB8B" opacity="0.46" /><circle cx="174.0" cy="341.8" r="5.0" fill="#EBCB8B" opacity="0.47" /></g>
+  <rect width="900" height="1200" fill="url(#vigapsyxtf)" />
+
+  <rect x="30" y="30" width="840" height="1140" fill="none" stroke="#EBCB8B" stroke-opacity="0.38" stroke-width="1.5" />
+</svg>

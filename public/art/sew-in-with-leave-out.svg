@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" preserveAspectRatio="xMidYMid slice" role="img">
+  <defs>
+    <linearGradient id="bga450knd" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#1B0F14" />
+      <stop offset="0.52" stop-color="#3E1D2C" />
+      <stop offset="1" stop-color="#6B3348" />
+    </linearGradient>
+    <radialGradient id="glowa450knd" cx="0.72" cy="0.22" r="0.78">
+      <stop offset="0" stop-color="#D9B86B" stop-opacity="0.46" />
+      <stop offset="0.45" stop-color="#D9B86B" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#D9B86B" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="deepa450knd" cx="0.18" cy="0.94" r="0.72">
+      <stop offset="0" stop-color="#120A0D" stop-opacity="0.78" />
+      <stop offset="1" stop-color="#120A0D" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="stranda450knd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D9B86B" stop-opacity="0.55" />
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#D9B86B" stop-opacity="0.32" />
+    </linearGradient>
+    <radialGradient id="viga450knd" cx="0.5" cy="0.46" r="0.78">
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.45" />
+    </radialGradient>
+    <filter id="softa450knd" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" />
+    </filter>
+  </defs>
+
+  <rect width="900" height="1200" fill="url(#bga450knd)" />
+  <rect width="900" height="1200" fill="url(#glowa450knd)" />
+
+  <g fill="none" stroke="url(#stranda450knd)" stroke-linecap="round" filter="url(#softa450knd)">
+    <path d="M721.0 -60.0 C625.0 408.0 880.9 816.0 641.0 1176.0 689.0 1272.0" stroke-width="27.4" opacity="0.51" /><path d="M406.8 -60.0 C304.1 408.0 577.9 816.0 321.2 1176.0 372.5 1272.0" stroke-width="41.0" opacity="0.22" /><path d="M326.8 -60.0 C364.5 408.0 263.9 816.0 358.2 1176.0 339.3 1272.0" stroke-width="36.1" opacity="0.35" /><path d="M366.3 -60.0 C450.9 408.0 225.1 816.0 436.8 1176.0 394.5 1272.0" stroke-width="28.3" opacity="0.33" /><path d="M803.6 -60.0 C810.1 408.0 792.7 816.0 809.0 1176.0 805.8 1272.0" stroke-width="49.6" opacity="0.27" /><path d="M518.7 -60.0 C571.4 408.0 430.9 816.0 562.6 1176.0 536.3 1272.0" stroke-width="58.0" opacity="0.55" /><path d="M86.7 -60.0 C218.9 408.0 -133.5 816.0 196.8 1176.0 130.8 1272.0" stroke-width="44.5" opacity="0.40" />
+  </g>
+
+  <g fill="none" stroke="#D9B86B" stroke-opacity="0.34" stroke-width="1.4">
+    <circle cx="450.0" cy="480.0" r="178.6" />
+    <circle cx="450.0" cy="480.0" r="288.0" stroke-opacity="0.2" />
+    <path d="M69.8 480.0 A380.2 380.2 0 0 1 830.2 480.0" stroke-opacity="0.16" />
+  </g>
+
+  <rect width="900" height="1200" fill="url(#deepa450knd)" />
+  <g><circle cx="618.6" cy="944.6" r="3.2" fill="#D9B86B" opacity="0.53" /><circle cx="359.8" cy="639.9" r="4.9" fill="#D9B86B" opacity="0.31" /><circle cx="317.3" cy="460.9" r="2.6" fill="#D9B86B" opacity="0.58" /><circle cx="295.6" cy="172.8" r="4.7" fill="#D9B86B" opacity="0.33" /><circle cx="541.7" cy="671.7" r="2.3" fill="#D9B86B" opacity="0.58" /><circle cx="448.9" cy="250.4" r="2.3" fill="#D9B86B" opacity="0.30" /><circle cx="667.6" cy="1080.7" r="2.3" fill="#D9B86B" opacity="0.47" /><circle cx="401.2" cy="628.0" r="1.8" fill="#D9B86B" opacity="0.74" /><circle cx="698.8" cy="869.7" r="3.9" fill="#D9B86B" opacity="0.59" /><circle cx="309.6" cy="826.8" r="3.7" fill="#D9B86B" opacity="0.74" /><circle cx="716.6" cy="578.9" r="4.8" fill="#D9B86B" opacity="0.47" /><circle cx="601.8" cy="868.9" r="2.1" fill="#D9B86B" opacity="0.35" /><circle cx="448.4" cy="595.2" r="2.3" fill="#D9B86B" opacity="0.53" /><circle cx="397.9" cy="920.1" r="4.1" fill="#D9B86B" opacity="0.29" /><circle cx="487.4" cy="723.0" r="4.0" fill="#D9B86B" opacity="0.26" /><circle cx="641.2" cy="151.5" r="1.7" fill="#D9B86B" opacity="0.61" /><circle cx="599.4" cy="493.8" r="3.7" fill="#D9B86B" opacity="0.63" /><circle cx="494.0" cy="157.6" r="3.4" fill="#D9B86B" opacity="0.41" /><circle cx="498.9" cy="357.4" r="4.3" fill="#D9B86B" opacity="0.69" /><circle cx="190.9" cy="601.3" r="2.7" fill="#D9B86B" opacity="0.32" /><circle cx="494.8" cy="284.4" r="4.7" fill="#D9B86B" opacity="0.31" /><circle cx="136.7" cy="1028.5" r="4.4" fill="#D9B86B" opacity="0.49" /><circle cx="467.1" cy="950.9" r="3.7" fill="#D9B86B" opacity="0.27" /><circle cx="765.0" cy="668.7" r="4.2" fill="#D9B86B" opacity="0.43" /><circle cx="516.6" cy="1034.0" r="2.7" fill="#D9B86B" opacity="0.33" /><circle cx="594.3" cy="217.6" r="2.4" fill="#D9B86B" opacity="0.66" /></g>
+  <rect width="900" height="1200" fill="url(#viga450knd)" />
+
+  <rect x="30" y="30" width="840" height="1140" fill="none" stroke="#D9B86B" stroke-opacity="0.38" stroke-width="1.5" />
+</svg>
